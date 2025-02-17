@@ -1,0 +1,71 @@
+#CajaBotones{
+
+    
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+#CajaBotones button{
+    
+    width: 80px;
+    height: 80px;
+}
+
+#num1{
+    text-align: center;
+    position: relative;
+    left: 610px;
+
+    width: 300px;
+    height: 25px;
+
+    border-radius: 2px;
+}
+
+#num3{
+
+    text-align: center;
+    position: relative;
+    top: 33px;
+    left: 300px;
+
+
+
+    border-radius: 2px;
+    width: 300px;
+    height: 25px;
+}
+
+
+#encabezado1{
+
+    text-align: center;
+}
+
+#line1{
+
+    text-align: center;
+    width: 500px;
+    height: 3px;
+    
+    background-color: black;
+}
+
+#CajaBotones2{
+ text-align: center;
+    position: relative;
+    top: 50px; 
+    
+}
+
+#CajaBotones2 button{
+width: 180px;
+    height: 60px;
+}
+
+#resultado{
+text-align: center;
+    position: relative;
+    top: 100px;
+}
